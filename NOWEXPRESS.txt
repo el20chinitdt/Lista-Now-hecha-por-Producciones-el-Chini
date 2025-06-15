@@ -12,6 +12,12 @@ N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_26/SA_DASH_cipix
 CANAL LOCAL SANTIAGO
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_4_Santiago/SA_DASH_cipix/Canal_4_Santiago.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15 -M format=mkv
 
+CANAL 4 SALTA
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_4_Salta/SA_DASH_cipix/Canal_4_Salta.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15 -M format=mkv
+
+LATINA TV
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_4/SA_DASH_cipix/Canal_4.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15 -M format=mkv
+
 C5N
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/C5N/SA_DASH_cipix/C5N.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 57d76e3c33df4a6482ee421a14cb3a3f:50f26f4ae88d11a2c6390484b14feaac -M format=mkv
 
@@ -30,6 +36,24 @@ N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/CNN_Espanol/SA_DASH_ci
 CANAL 7 SANTIAGO
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6a47917ca83343ea8dcca63189e36d78:84b0fe420ed5de7ef83c608d78d74f15 -M format=mkv
 
+MULTIVISION
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Multivision/SA_DASH_cipix/Multivision.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key e995777307f74ad891460bc76de8c289:e5dc5850d3ade205bbf0a096a7471fa9 -M format=mkv
+
+EL ONCE TV
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_11_Salta/SA_DASH_cipix/Canal_11_Salta.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6a47917ca83343ea8dcca63189e36d78:84b0fe420ed5de7ef83c608d78d74f15 -M format=mkv
+
+TELEFE ROSARIO
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/CANAL_5_HD/SA_DASH_cipix/CANAL_5_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key b2011cbe516d44139652945f72781552:971bd2bf2c3ebc1c296624c9edcb6488 -M format=mkv
+
+ÁREA PLUS
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Area_Plus/SA_DASH_cipix/Area_Plus.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 1bc99c64b9c24d9eb8c474240ce0bf7d:58d74cab71765ce870d5a105a514d843 -M format=mkv
+
+RTS
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/5RTV_Santa_Fe/SA_DASH_cipix/5RTV_Santa_Fe.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 70a8d2c4a1cc48cb84332175d4fa1ddb:1bf2362c9c10efa2a88ce83775770863 -M format=mkv
+
+EL TRES TV 
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/CANAL_3_HD/SA_DASH_cipix/CANAL_3_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 97c4364eb3714b2ca90edd85f76e7c05:8c191f8799f0613dda5031da7798d710 -M format=mkv
+
 TV PUBLICA
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/TV_PUBLICA_HD/SA_DASH_cipix/TV_PUBLICA_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key a0558c7d279c4ab6a31702b9452da4c3:3235982dafa1658faf2a9fee5fdb916e -M format=mkv
 
@@ -47,6 +71,9 @@ N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Telefe/SA_DASH_cipix/T
 
 TYC SPORTS
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 63e6b0db66434556a23c855bd5b6e7d2:4c4f0286647963aec05c15df1ba51224 -M format=mkv
+
+TYC SPORTS 2
+N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/TyC_Sports_2/SA_DASH_cipix/TyC_Sports_2.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key e2606caffba8441b8768b08ab01d3ea1:2079b1e9adb06fa132444eb1cdc6ebd4 -M format=mkv
 
 FOX SPORTS 1
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 90fd0225253a42c89e36d4bc5a007498:caebfd1e078f1315f9e66ff98544c125 -M format=mkv
