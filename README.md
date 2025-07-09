@@ -1,1 +1,0 @@
-No vender las listas
