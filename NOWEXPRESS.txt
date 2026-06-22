@@ -39,6 +39,10 @@ N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_7_Santiago/SA_DA
 MULTIVISION
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Multivision/SA_DASH_cipix/Multivision.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key e995777307f74ad891460bc76de8c289:e5dc5850d3ade205bbf0a096a7471fa9 -M format=mkv
 
+TELEDIEZ SALTA
+https://anedgesta.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMTM2Mzc3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2MxZWRzL1RlbGUxMC9TQV9EQVNIX2NpcGl4LyIsInNlc3Npb25fY2RuX2lkIjoiZDY5NjdkNmE0MDI5NjM2NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiI1ODQ0MiIsImRldmljZV9pZCI6IjIwNTkyMjMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTkwLjIuMTA1LjIyNSIsInNlc3Npb25fdGltZW91dCI6MTIwMCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbNF19.zTOp9XYwGRSN6quKFU7LM5s89QuncVil-y-tNvjbx2D477-keMkI6tvbzgNvk_CSNQMZ3tDYPAFnnTCYwTsZZw==/live/c1eds/Tele10/SA_DASH_cipix/Tele10.mpd?begin=2026-06-22T01%3A00%3A00Z&token=p9VxL2qRm7ZaT4nYc8WfH3sDj6EuB1pNo5GiMxQzK
+--key d2a1cd2aefb34937913848e00e146da9:1a450459a6137906aa4129dc639a9781
+
 EL ONCE TV
 N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/Canal_11_Salta/SA_DASH_cipix/Canal_11_Salta.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 6a47917ca83343ea8dcca63189e36d78:84b0fe420ed5de7ef83c608d78d74f15 -M format=mkv
 
